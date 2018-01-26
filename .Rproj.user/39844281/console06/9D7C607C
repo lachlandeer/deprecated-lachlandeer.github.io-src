@@ -1,0 +1,25 @@
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git t[Kstaus[K[Ktus
+fatal: Not a git repository (or any of the parent directories): .git
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git init .
+Initialized empty Git repository in /home/lachlan/Documents/test-site/.git/
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rhistory[m
+	[31m.Rproj.user/[m
+	[31mconfig.toml[m
+	[31mcontent/[m
+	[31mindex.Rmd[m
+	[31mpublic/[m
+	[31mstatic/[m
+	[31mtest-site.Rproj[m
+	[31mthemes/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git add .
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git commit -am ""i"n"i"t"i"a"l" "c"o"m"m"i"t"[C

@@ -23,7 +23,7 @@ You can find a pdf version of my CV here.</description>
     </item>
     
     <item>
-      <title>Selected Publications</title>
+      <title>Selected Research</title>
       <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -32,11 +32,29 @@ You can find a pdf version of my CV here.</description>
     </item>
     
     <item>
-      <title>Research</title>
+      <title>Publications</title>
       <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Papers</title>
+      <link>/home/working_papers/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/working_papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Progress</title>
+      <link>/home/wip/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/wip/</guid>
       <description></description>
     </item>
     

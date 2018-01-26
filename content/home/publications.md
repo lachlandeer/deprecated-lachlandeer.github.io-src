@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20
 
 #title = "Recent Publications"
-title = "Research"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -20,7 +20,7 @@ count = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 3
+list_format = 2
 
 # Filter by publication type.
 # -1: Any
@@ -31,7 +31,7 @@ list_format = 3
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-1"
+publication_type = "2"
 
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false

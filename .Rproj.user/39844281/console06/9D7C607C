@@ -23,3 +23,434 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git add .
 ]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git commit -am ""i"n"i"t"i"a"l" "c"o"m"m"i"t"[C
+[master (root-commit) 6d83a80] initial commit
+ 229 files changed, 22690 insertions(+)
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/39844281/console06/9D7C607C
+ create mode 100644 .Rproj.user/39844281/console06/9D7C607C.env
+ create mode 100644 .Rproj.user/39844281/console06/INDEX001
+ create mode 100644 .Rproj.user/39844281/sources/s-FEA4D606/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 config.toml
+ create mode 100644 content/home/about.md
+ create mode 100644 content/home/contact.md
+ create mode 100644 content/home/hero.md
+ create mode 100644 content/home/posts.md
+ create mode 100644 content/home/projects.md
+ create mode 100644 content/home/publications.md
+ create mode 100644 content/home/publications_selected.md
+ create mode 100644 content/home/tags.md
+ create mode 100644 content/home/talks.md
+ create mode 100644 content/home/teaching.md
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.html
+ create mode 100644 content/post/_index.md
+ create mode 100644 content/post/getting-started.md
+ create mode 100644 content/project/deep-learning.md
+ create mode 100644 content/project/example-external-project.md
+ create mode 100644 content/publication/_index.md
+ create mode 100644 content/publication/clothing-search.md
+ create mode 100644 content/publication/person-re-identification.md
+ create mode 100644 content/tags/academic/_index.md
+ create mode 100644 content/talk/_index.md
+ create mode 100644 content/talk/example-talk.md
+ create mode 100644 index.Rmd
+ create mode 100644 public/404.html
+ create mode 100644 public/categories/index.html
+ create mode 100644 public/categories/page/1/index.html
+ create mode 100644 public/categories/r/index.html
+ create mode 100644 public/categories/r/page/1/index.html
+ create mode 100644 public/files/citations/clothing-search.bib
+ create mode 100644 public/home/index.xml
+ create mode 100644 public/img/boards.jpg
+ create mode 100644 public/img/bubbles.jpg
+ create mode 100644 public/img/headers/bubbles-wide.jpg
+ create mode 100644 public/img/headers/getting-started.png
+ create mode 100644 public/img/icon-192.png
+ create mode 100644 public/img/icon.png
+ create mode 100644 public/img/portrait.jpg
+ create mode 100644 public/index.html
+ create mode 100644 public/index.xml
+ create mode 100644 public/js/hugo-academic.js
+ create mode 100644 public/post/2015-07-23-r-rmarkdown/index.html
+ create mode 100644 public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 public/post/getting-started/index.html
+ create mode 100644 public/post/index.html
+ create mode 100644 public/post/index.xml
+ create mode 100644 public/post/page/1/index.html
+ create mode 100644 public/project/deep-learning/index.html
+ create mode 100644 public/project/example-external-project/index.html
+ create mode 100644 public/project/index.xml
+ create mode 100644 public/publication/clothing-search/index.html
+ create mode 100644 public/publication/index.html
+ create mode 100644 public/publication/index.xml
+ create mode 100644 public/publication/person-re-identification/index.html
+ create mode 100644 public/publication_types/1/index.html
+ create mode 100644 public/publication_types/1/page/1/index.html
+ create mode 100644 public/publication_types/2/index.html
+ create mode 100644 public/publication_types/2/page/1/index.html
+ create mode 100644 public/publication_types/index.html
+ create mode 100644 public/publication_types/page/1/index.html
+ create mode 100644 public/site.webmanifest
+ create mode 100644 public/sitemap.xml
+ create mode 100644 public/styles.css
+ create mode 100644 public/tags/academic/index.html
+ create mode 100644 public/tags/academic/page/1/index.html
+ create mode 100644 public/tags/deep-learning/index.html
+ create mode 100644 public/tags/deep-learning/page/1/index.html
+ create mode 100644 public/tags/demo/index.html
+ create mode 100644 public/tags/demo/page/1/index.html
+ create mode 100644 public/tags/index.html
+ create mode 100644 public/tags/page/1/index.html
+ create mode 100644 public/tags/plot/index.html
+ create mode 100644 public/tags/plot/page/1/index.html
+ create mode 100644 public/tags/r-markdown/index.html
+ create mode 100644 public/tags/r-markdown/page/1/index.html
+ create mode 100644 public/tags/regression/index.html
+ create mode 100644 public/tags/regression/page/1/index.html
+ create mode 100644 public/talk/example-talk/index.html
+ create mode 100644 public/talk/index.html
+ create mode 100644 public/talk/index.xml
+ create mode 100644 static/files/citations/clothing-search.bib
+ create mode 100644 static/img/boards.jpg
+ create mode 100644 static/img/bubbles.jpg
+ create mode 100644 static/img/headers/bubbles-wide.jpg
+ create mode 100644 static/img/headers/getting-started.png
+ create mode 100644 static/img/portrait.jpg
+ create mode 100644 static/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 test-site.Rproj
+ create mode 100644 themes/hugo-academic/.editorconfig
+ create mode 100644 themes/hugo-academic/.github/PULL_REQUEST_TEMPLATE.md
+ create mode 100644 themes/hugo-academic/LICENSE.md
+ create mode 100644 themes/hugo-academic/README.md
+ create mode 100644 themes/hugo-academic/academic.png
+ create mode 100644 themes/hugo-academic/archetypes/default.md
+ create mode 100644 themes/hugo-academic/archetypes/home.md
+ create mode 100644 themes/hugo-academic/archetypes/post.md
+ create mode 100644 themes/hugo-academic/archetypes/project.md
+ create mode 100644 themes/hugo-academic/archetypes/publication.md
+ create mode 100644 themes/hugo-academic/archetypes/talk.md
+ create mode 100644 themes/hugo-academic/data/fonts/classic.toml
+ create mode 100644 themes/hugo-academic/data/fonts/default.toml
+ create mode 100644 themes/hugo-academic/data/fonts/playfair.toml
+ create mode 100644 themes/hugo-academic/data/i18n/languages.yaml
+ create mode 100644 themes/hugo-academic/data/sri.toml
+ create mode 100644 themes/hugo-academic/data/themes/1950s.toml
+ create mode 100644 themes/hugo-academic/data/themes/coffee.toml
+ create mode 100644 themes/hugo-academic/data/themes/dark.toml
+ create mode 100644 themes/hugo-academic/data/themes/default.toml
+ create mode 100644 themes/hugo-academic/data/themes/forest.toml
+ create mode 100644 themes/hugo-academic/data/themes/ocean.toml
+ create mode 100644 themes/hugo-academic/exampleSite/config.toml
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/about.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/contact.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/hero.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/posts.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/projects.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/publications.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/publications_selected.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/tags.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/talks.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/home/teaching.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/post/_index.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/post/getting-started.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/project/deep-learning.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/project/example-external-project.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/publication/_index.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/publication/clothing-search.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/publication/person-re-identification.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/tags/academic/_index.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/talk/_index.md
+ create mode 100644 themes/hugo-academic/exampleSite/content/talk/example-talk.md
+ create mode 100644 themes/hugo-academic/exampleSite/static/files/citations/clothing-search.bib
+ create mode 100644 themes/hugo-academic/exampleSite/static/img/boards.jpg
+ create mode 100644 themes/hugo-academic/exampleSite/static/img/bubbles.jpg
+ create mode 100644 themes/hugo-academic/exampleSite/static/img/headers/bubbles-wide.jpg
+ create mode 100644 themes/hugo-academic/exampleSite/static/img/headers/getting-started.png
+ create mode 100644 themes/hugo-academic/exampleSite/static/img/portrait.jpg
+ create mode 100644 themes/hugo-academic/i18n/de.yaml
+ create mode 100644 themes/hugo-academic/i18n/en.yaml
+ create mode 100644 themes/hugo-academic/i18n/es.yaml
+ create mode 100644 themes/hugo-academic/i18n/eu.yaml
+ create mode 100644 themes/hugo-academic/i18n/fr.yaml
+ create mode 100644 themes/hugo-academic/i18n/it.yaml
+ create mode 100644 themes/hugo-academic/i18n/ko.yaml
+ create mode 100644 themes/hugo-academic/i18n/nl.yaml
+ create mode 100644 themes/hugo-academic/i18n/pl.yaml
+ create mode 100644 themes/hugo-academic/i18n/pt.yaml
+ create mode 100644 themes/hugo-academic/i18n/ru.yaml
+ create mode 100644 themes/hugo-academic/i18n/tr.yaml
+ create mode 100644 themes/hugo-academic/i18n/vi.yaml
+ create mode 100644 themes/hugo-academic/i18n/zh.yaml
+ create mode 100644 themes/hugo-academic/images/screenshot.png
+ create mode 100644 themes/hugo-academic/images/theme-1950s.png
+ create mode 100644 themes/hugo-academic/images/theme-coffee-playfair.png
+ create mode 100644 themes/hugo-academic/images/theme-dark.png
+ create mode 100644 themes/hugo-academic/images/theme-default.png
+ create mode 100644 themes/hugo-academic/images/theme-forest.png
+ create mode 100644 themes/hugo-academic/images/theme-ocean.png
+ create mode 100644 themes/hugo-academic/images/theme-spacer.png
+ create mode 100644 themes/hugo-academic/images/tn.png
+ create mode 100644 themes/hugo-academic/layouts/404.html
+ create mode 100644 themes/hugo-academic/layouts/_default/list.html
+ create mode 100644 themes/hugo-academic/layouts/_default/single.html
+ create mode 100644 themes/hugo-academic/layouts/home/list.html
+ create mode 100644 themes/hugo-academic/layouts/home/single.html
+ create mode 100644 themes/hugo-academic/layouts/index.css
+ create mode 100644 themes/hugo-academic/layouts/index.html
+ create mode 100644 themes/hugo-academic/layouts/partials/article_metadata.html
+ create mode 100644 themes/hugo-academic/layouts/partials/comments.html
+ create mode 100644 themes/hugo-academic/layouts/partials/css/academic.css
+ create mode 100644 themes/hugo-academic/layouts/partials/css/parse_theme.css
+ create mode 100644 themes/hugo-academic/layouts/partials/footer.html
+ create mode 100644 themes/hugo-academic/layouts/partials/footer_container.html
+ create mode 100644 themes/hugo-academic/layouts/partials/head_custom.html
+ create mode 100644 themes/hugo-academic/layouts/partials/header.html
+ create mode 100644 themes/hugo-academic/layouts/partials/header_image.html
+ create mode 100644 themes/hugo-academic/layouts/partials/navbar.html
+ create mode 100644 themes/hugo-academic/layouts/partials/pagination.html
+ create mode 100644 themes/hugo-academic/layouts/partials/post_li.html
+ create mode 100644 themes/hugo-academic/layouts/partials/publication_li_apa.html
+ create mode 100644 themes/hugo-academic/layouts/partials/publication_li_detailed.html
+ create mode 100644 themes/hugo-academic/layouts/partials/publication_li_mla.html
+ create mode 100644 themes/hugo-academic/layouts/partials/publication_li_simple.html
+ create mode 100644 themes/hugo-academic/layouts/partials/publication_links.html
+ create mode 100644 themes/hugo-academic/layouts/partials/section_pager.html
+ create mode 100644 themes/hugo-academic/layouts/partials/share.html
+ create mode 100644 themes/hugo-academic/layouts/partials/tags.html
+ create mode 100644 themes/hugo-academic/layouts/partials/talk_li_detailed.html
+ create mode 100644 themes/hugo-academic/layouts/partials/talk_li_simple.html
+ create mode 100644 themes/hugo-academic/layouts/partials/talk_links.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widget_page.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/about.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/contact.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/custom.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/featurette.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/hero.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/posts.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/projects.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/publications.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/publications_selected.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/tag_cloud.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/talks.html
+ create mode 100644 themes/hugo-academic/layouts/partials/widgets/talks_selected.html
+ create mode 100644 themes/hugo-academic/layouts/project/single.html
+ create mode 100644 themes/hugo-academic/layouts/publication/single.html
+ create mode 100644 themes/hugo-academic/layouts/rss.xml
+ create mode 100644 themes/hugo-academic/layouts/section/home.html
+ create mode 100644 themes/hugo-academic/layouts/section/post.html
+ create mode 100644 themes/hugo-academic/layouts/section/project.html
+ create mode 100644 themes/hugo-academic/layouts/section/publication.html
+ create mode 100644 themes/hugo-academic/layouts/section/talk.html
+ create mode 100644 themes/hugo-academic/layouts/shortcodes/alert.html
+ create mode 100644 themes/hugo-academic/layouts/shortcodes/gallery.html
+ create mode 100644 themes/hugo-academic/layouts/shortcodes/staticref.html
+ create mode 100644 themes/hugo-academic/layouts/shortcodes/toc.html
+ create mode 100644 themes/hugo-academic/layouts/sitemap.xml
+ create mode 100644 themes/hugo-academic/layouts/talk/single.html
+ create mode 100644 themes/hugo-academic/static/img/icon-192.png
+ create mode 100644 themes/hugo-academic/static/img/icon.png
+ create mode 100644 themes/hugo-academic/static/img/portrait.jpg
+ create mode 100644 themes/hugo-academic/static/js/hugo-academic.js
+ create mode 100644 themes/hugo-academic/static/site.webmanifest
+ create mode 100644 themes/hugo-academic/theme.toml
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git stats[Kus
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/39844281/console06/9D7C607C[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ [K]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ nautilus .
+
+(nautilus:9532): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:9532): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:9532): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:9532): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:9532): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git stata[Kus
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/39844281/console06/9D7C607C[m
+	[31mmodified:   .Rproj.user/39844281/console06/INDEX001[m
+	[31mmodified:   config.toml[m
+	[31mmodified:   public/404.html[m
+	[31mmodified:   public/categories/index.html[m
+	[31mmodified:   public/categories/r/index.html[m
+	[31mmodified:   public/home/index.xml[m
+	[31mmodified:   public/index.html[m
+	[31mmodified:   public/index.xml[m
+	[31mmodified:   public/post/2015-07-23-r-rmarkdown/index.html[m
+	[31mmodified:   public/post/getting-started/index.html[m
+	[31mmodified:   public/post/index.html[m
+	[31mmodified:   public/post/index.xml[m
+	[31mmodified:   public/project/deep-learning/index.html[m
+	[31mmodified:   public/project/example-external-project/index.html[m
+	[31mmodified:   public/project/index.xml[m
+	[31mmodified:   public/publication/clothing-search/index.html[m
+	[31mmodified:   public/publication/index.html[m
+	[31mmodified:   public/publication/index.xml[m
+	[31mmodified:   public/publication/person-re-identification/index.html[m
+	[31mmodified:   public/publication_types/1/index.html[m
+	[31mmodified:   public/publication_types/2/index.html[m
+	[31mmodified:   public/publication_types/index.html[m
+	[31mmodified:   public/sitemap.xml[m
+	[31mmodified:   public/styles.css[m
+	[31mmodified:   public/tags/academic/index.html[m
+	[31mmodified:   public/tags/deep-learning/index.html[m
+	[31mmodified:   public/tags/demo/index.html[m
+	[31mmodified:   public/tags/index.html[m
+	[31mmodified:   public/tags/plot/index.html[m
+	[31mmodified:   public/tags/r-markdown/index.html[m
+	[31mmodified:   public/tags/regression/index.html[m
+	[31mmodified:   public/talk/example-talk/index.html[m
+	[31mmodified:   public/talk/index.html[m
+	[31mmodified:   public/talk/index.xml[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/39844281/sources/prop/[m
+	[31m.Rproj.user/39844281/sources/s-FEA4D606/4509CFF0[m
+	[31m.Rproj.user/39844281/sources/s-FEA4D606/4509CFF0-contents[m
+	[31mpublic/img/imageedit_2_2280121982.jpg[m
+	[31mpublic/img/lachlan.jpg[m
+	[31mpublic/img/lachlan.png[m
+	[31mpublic/img/lachlan2.jpg[m
+	[31mstatic/img/lachlan.jpg[m
+	[31mstatic/img/lachlan.png[m
+	[31mstatic/img/lachlan2.jpg[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ touch .[K[K[K[K[K[K[Ktoiych[K[K[K[Kcu[K[Kuch .got[K[Kitog[K[Kignore
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ touch .gitignore[6Pgit status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/39844281/console06/9D7C607C[m
+	[31mmodified:   .Rproj.user/39844281/console06/INDEX001[m
+	[31mmodified:   config.toml[m
+	[31mmodified:   public/404.html[m
+	[31mmodified:   public/categories/index.html[m
+	[31mmodified:   public/categories/r/index.html[m
+	[31mmodified:   public/home/index.xml[m
+	[31mmodified:   public/index.html[m
+	[31mmodified:   public/index.xml[m
+	[31mmodified:   public/post/2015-07-23-r-rmarkdown/index.html[m
+	[31mmodified:   public/post/getting-started/index.html[m
+	[31mmodified:   public/post/index.html[m
+	[31mmodified:   public/post/index.xml[m
+	[31mmodified:   public/project/deep-learning/index.html[m
+	[31mmodified:   public/project/example-external-project/index.html[m
+	[31mmodified:   public/project/index.xml[m
+	[31mmodified:   public/publication/clothing-search/index.html[m
+	[31mmodified:   public/publication/index.html[m
+	[31mmodified:   public/publication/index.xml[m
+	[31mmodified:   public/publication/person-re-identification/index.html[m
+	[31mmodified:   public/publication_types/1/index.html[m
+	[31mmodified:   public/publication_types/2/index.html[m
+	[31mmodified:   public/publication_types/index.html[m
+	[31mmodified:   public/sitemap.xml[m
+	[31mmodified:   public/styles.css[m
+	[31mmodified:   public/tags/academic/index.html[m
+	[31mmodified:   public/tags/deep-learning/index.html[m
+	[31mmodified:   public/tags/demo/index.html[m
+	[31mmodified:   public/tags/index.html[m
+	[31mmodified:   public/tags/plot/index.html[m
+	[31mmodified:   public/tags/r-markdown/index.html[m
+	[31mmodified:   public/tags/regression/index.html[m
+	[31mmodified:   public/talk/example-talk/index.html[m
+	[31mmodified:   public/talk/index.html[m
+	[31mmodified:   public/talk/index.xml[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/39844281/sources/prop/[m
+	[31m.Rproj.user/39844281/sources/s-FEA4D606/4509CFF0[m
+	[31m.Rproj.user/39844281/sources/s-FEA4D606/4509CFF0-contents[m
+	[31m.Rproj.user/39844281/sources/s-FEA4D606/ED0E9399[m
+	[31m.Rproj.user/39844281/sources/s-FEA4D606/ED0E9399-contents[m
+	[31m.gitignore[m
+	[31mpublic/img/imageedit_2_2280121982.jpg[m
+	[31mpublic/img/lachlan.jpg[m
+	[31mpublic/img/lachlan.png[m
+	[31mpublic/img/lachlan2.jpg[m
+	[31mstatic/img/lachlan.jpg[m
+	[31mstatic/img/lachlan.png[m
+	[31mstatic/img/lachlan2.jpg[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ *[Kgit status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/39844281/console06/9D7C607C[m
+	[31mmodified:   .Rproj.user/39844281/console06/INDEX001[m
+	[31mmodified:   config.toml[m
+	[31mmodified:   public/404.html[m
+	[31mmodified:   public/categories/index.html[m
+	[31mmodified:   public/categories/r/index.html[m
+	[31mmodified:   public/home/index.xml[m
+	[31mmodified:   public/index.html[m
+	[31mmodified:   public/index.xml[m
+	[31mmodified:   public/post/2015-07-23-r-rmarkdown/index.html[m
+	[31mmodified:   public/post/getting-started/index.html[m
+	[31mmodified:   public/post/index.html[m
+	[31mmodified:   public/post/index.xml[m
+	[31mmodified:   public/project/deep-learning/index.html[m
+	[31mmodified:   public/project/example-external-project/index.html[m
+	[31mmodified:   public/project/index.xml[m
+	[31mmodified:   public/publication/clothing-search/index.html[m
+	[31mmodified:   public/publication/index.html[m
+	[31mmodified:   public/publication/index.xml[m
+	[31mmodified:   public/publication/person-re-identification/index.html[m
+	[31mmodified:   public/publication_types/1/index.html[m
+	[31mmodified:   public/publication_types/2/index.html[m
+	[31mmodified:   public/publication_types/index.html[m
+	[31mmodified:   public/sitemap.xml[m
+	[31mmodified:   public/styles.css[m
+	[31mmodified:   public/tags/academic/index.html[m
+	[31mmodified:   public/tags/deep-learning/index.html[m
+	[31mmodified:   public/tags/demo/index.html[m
+	[31mmodified:   public/tags/index.html[m
+	[31mmodified:   public/tags/plot/index.html[m
+	[31mmodified:   public/tags/r-markdown/index.html[m
+	[31mmodified:   public/tags/regression/index.html[m
+	[31mmodified:   public/talk/example-talk/index.html[m
+	[31mmodified:   public/talk/index.html[m
+	[31mmodified:   public/talk/index.xml[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.gitignore[m
+	[31mpublic/img/imageedit_2_2280121982.jpg[m
+	[31mpublic/img/lachlan.jpg[m
+	[31mpublic/img/lachlan.png[m
+	[31mpublic/img/lachlan2.jpg[m
+	[31mstatic/img/lachlan.jpg[m
+	[31mstatic/img/lachlan.png[m
+	[31mstatic/img/lachlan2.jpg[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git comm[K[K[K[Kadd .goit[K[K[Kitignore 
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git commit -am ""a"d"d" "g"i"t"i"g"n"o"r"e"[C[C[C[C[C[1P
+[master cadff50] add gitignore
+ 1 file changed, 1 insertion(+)
+ create mode 100644 .gitignore
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git add .
+]0;/home/lachlan/Documents/test-site]0;lachlan@lachlan-ThinkPad-T460s: ~/Documents/test-site[01;32mlachlan@lachlan-ThinkPad-T460s[00m:[01;34m~/Documents/test-site[00m$ git commit -am ""u"p"d"a"t"e" "t"o"m"l" "w"i"t"h" "m"y" "i"n"f"o"

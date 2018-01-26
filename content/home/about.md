@@ -45,4 +45,4 @@ weight = 5
 I am a PhD Candidate at the Department of Economics at the University of Zurich.
 My research interests lie in empirical industrial organization and quantitative marketing.
 
-You can find a pdf version of my CV [here](static/files/lachlandeer-cv.pdf).
+You can find a pdf version of my CV [here](files/lachlandeer-cv.pdf).

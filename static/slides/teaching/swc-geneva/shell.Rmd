@@ -109,11 +109,11 @@ Image credit: [xkcd](https://imgs.xkcd.com/)
 ---
 # All the links in one place:
 
-* Course Website is [here]()
-* A community document (Etherpad) is [here]()
-* These slides are available [here]()
-* Pre-course survey is [here]()
-* Post-course survey is [here]()
+* Course Website is [here](https://lachlandeer.github.io/2018-03-08-geneva/)
+* A community document (Etherpad) is [here](http://pad.software-carpentry.org/2018-03-08-geneva)
+* These slides are available [here](https://lachlandeer.github.io/slides/teaching/swc-geneva/shell.html)
+* Pre-course survey is [here](https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=2018-03-08-geneva)
+* Post-course survey is [here](https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id=2018-03-08-geneva)
 
 **Bookmark one of the first three (at least)**
 

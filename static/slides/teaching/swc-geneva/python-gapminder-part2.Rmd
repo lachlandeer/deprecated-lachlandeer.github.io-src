@@ -1,0 +1,143 @@
+---
+title: "Analyzing Data with Python"
+author: "Lachlan Deer"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    yolo: false
+    lib_dir: libs
+    css: ["default-fonts", "duke_color_pallettes_slides.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+## What did learn yesterday?
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+* How to run programs
+* Data types
+* Using built in functions
+* Lists
+* Loops
+* Loading & using Libraries
+* Loading data with Pandas
+
+---
+## Ambitions for today
+
+* Work with a Pandas DataFrame
+    * Selecting rows / columns
+    * (grouped) Summary statistics
+* Plotting data
+* Working with multiple datasets
+* Creating user defined functions
+* Variable Scoping
+* Understanding Errors
+* Conditionals (`if`)
+* Programming style
+
+
+---
+class: softblue, middle, center
+# Getting Started with data
+
+---
+## Exercise: Selecting Individual Values
+
+Assume Pandas has been imported into your notebook and the Gapminder GDP data for Europe has been loaded:
+```{r select, engine="python", eval=FALSE}
+import pandas
+
+df = pandas.read_csv('data/gapminder_gdp_europe.csv', 
+                     index_col='country')
+```
+Write an expression to find the Per Capita GDP of Serbia in 2007.
+
+---
+## Exercise: Reconstructing Data
+
+Explain what each line in the following short program does: what is in first, second, etc.?
+```{r reconstruct, engine="python", eval=FALSE}
+first = pandas.read_csv('data/gapminder_all.csv', 
+                        index_col='country')
+second = first[first['continent'] == 'Americas']
+third = second.drop('Puerto Rico')
+fourth = third.drop('continent', axis = 1)
+fourth.to_csv('result.csv')
+```
+
+---
+## Exercise: Practice Selecting Data
+
+Assume Pandas has been imported and the Gapminder GDP data for Europe has been loaded. Write an expression to select each of the following:
+
+1. GDP per capita for all countries in 1982.
+2. GDP per capita for Denmark for all years.
+3. GDP per capita for all countries for years after 1985.
+4. GDP per capita for each country in 2007 as a multiple of GDP per capita for that country in 1952.
+
+---
+## Exercise: Plotting Practice
+
+Fill in the blanks below to plot the minimum GDP per capita over time for all the countries in Europe. Modify it again to plot the maximum GDP per capita over time for Europe.
+
+```{r plotting, engine="python", eval=FALSE}
+data_europe = pandas.read_csv('data/gapminder_gdp_europe.csv', index_col='country')
+data_europe.____.plot(label='min')
+data_europe.____
+plt.legend(loc='best')
+```
+
+---
+## Exercise: Explain what is happening
+
+This short programs creates a plot showing the correlation between GDP and life expectancy for 2007, normalizing marker size by population:
+```{r plot-explain, engine="python", eval=FALSE}
+data_all = pandas.read_csv('data/gapminder_all.csv', index_col='country')
+data_all.plot(kind='scatter', x='gdpPercap_2007', y='lifeExp_2007',
+              s=data_all['pop_2007']/1e6)
+plt.xticks(rotation=90)
+```
+Explain what each argument to plot does.
+
+---
+## Exercise: Putting everything together
+
+Write a program that reads in the regional data sets and plots the average GDP per capita for each region over time in a single chart.
+
+---
+## Exercise: Working with Conditionals
+
+Fill in the blanks so that this program creates a new list containing zeroes where the original list’s values were negative and ones where the origina list’s values were positive.
+```{r looping, engine="python", eval=FALSE}
+original = [-1.5, 0.2, 0.4, 0.0, -1.3, 0.4]
+result = ____
+for value in original:
+    if ____:
+        result.append(0)
+    else:
+        ____
+print(result)
+```
+The output of this should be:
+```
+[0, 1, 1, 1, 0, 1]
+```
+Extra: Can you write a function that acceptes the list `original` and returns the `result` to the user?
+
+---
+## Exercise: Documenting Code
+
+Turn the comment on the following function into a docstring and check that help displays it properly.
+```{r document, engine="python", eval=FALSE}
+def middle(a, b, c):
+    # Return the middle value of three.
+    # Assumes the values can actually be compared.
+    values = [a, b, c]
+    values.sort()
+    return values[1]
+```
+

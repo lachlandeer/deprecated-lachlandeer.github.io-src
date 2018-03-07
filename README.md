@@ -39,3 +39,5 @@ How to Build this site manually
     - Copy the `public` folder to `lachlandeer.github.io` (eg `cp -r public/* path/to/lachlandeer.github.io/`)
     - Ensure `lachlandeer.github.io` has an additional file `.nojekyll` (it can be be empty)
     - push from `lachlandeer.github.io`
+
+6. Extra stuff to build? I have slides in the directory `static/slides`, if we want to pass these over to the site, run `blogdown::build_dir("static/slides/")` before copying!

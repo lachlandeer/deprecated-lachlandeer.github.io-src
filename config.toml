@@ -259,6 +259,11 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
+  name = "Code"
+  url = "#software"
+  weight = 8
+
+[[menu.main]]
   name = "Misc."
   url = "#miscellaneous"
   weight = 8

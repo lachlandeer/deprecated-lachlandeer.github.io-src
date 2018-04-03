@@ -74,6 +74,15 @@ You can find a pdf version of my CV here.</description>
     </item>
     
     <item>
+      <title>Code</title>
+      <link>/home/software/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/software/</guid>
+      <description> R Packages Empirical IO demandr: Nested Logit Demand Models in Empirical IO  Estimate Nested Logit Demand models on aggregate market share data Website CRAN Github  mergersim: Merger Simulation for Empirical IO Marketing dominicksr:  Provides data from the Dominicks Finer Food database provided by Kilt&amp;rsquo;s Center for Marketing at Chicago Booth Website CRAN Github  Econometrics hayshir: R Companion to &amp;ldquo;Econometrics&amp;rdquo; by Fumio Hayashi  Provides all data sets used in textbook Website CRAN Github  </description>
+    </item>
+    
+    <item>
       <title>Miscellaneous</title>
       <link>/home/miscellaneous/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>

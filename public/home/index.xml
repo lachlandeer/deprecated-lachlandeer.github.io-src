@@ -74,6 +74,16 @@ You can find a pdf version of my CV here.</description>
     </item>
     
     <item>
+      <title>Miscellaneous</title>
+      <link>/home/miscellaneous/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/miscellaneous/</guid>
+      <description>Installation Guide for Software and Packages While teaching programming skills I have assembled a set of instructions for setting up a computing environment that I find useful for economics / marketing research. Instructions are provided for Linux (Ubuntu flavored), Mac and Windows environments.
+ Installation Guide  Borrowed and updated from the programming course I co-taught at UZH in 2017.   Reproducible Research Workflows The Snakemake workflow management system helps to create reproducible and scalable data analyses.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>

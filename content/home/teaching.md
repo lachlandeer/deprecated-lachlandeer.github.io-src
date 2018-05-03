@@ -47,15 +47,19 @@ Workshops:
 * [Federal Reserve Board of Governors](https://lachlandeer.github.io/2017-05-01-dc-frb/), May 2017
 * [Federal Reserve in Kansas City](https://butterflyology.github.io/2017-02-14-kcfrb/), Feb 2017
 
-Lesson Maintainence (with many others!):
+Lesson Maintainence (with many others):
 
 * [Introduction to Geospatial Data](http://www.datacarpentry.org/r-spatial-data-management-intro/) (*under development*)
+* [Introduction to R for Geospatial Data](http://www.datacarpentry.org/r-intro-geospatial/)(*under development*)
 * [Introduction to Geospatial Data with R](http://www.datacarpentry.org/R-spatial-raster-vector-lesson/) (*under development*)
 
 Contributions to lessons:
 
-* [Data Carpentry: R for data analysis and visualization of Ecological Data](http://datacarpentry.org/R-ecology-lesson)
-* [Software Carpentry: R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
+* [Data Organization in Spreadsheets for Social Scientists](http://www.datacarpentry.org/spreadsheets-socialsci/)
+* [OpenRefine for Social Science Data](http://www.datacarpentry.org/openrefine-socialsci/)
+* [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
+* [R for data analysis and visualization of Ecological Data](http://datacarpentry.org/R-ecology-lesson)
+
 
 ## Thesis Supervision
 

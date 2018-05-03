@@ -20,9 +20,9 @@ weight = 70
 
 #### `demandr`: Nested Logit Demand Models in Empirical IO
 * Estimate Nested Logit Demand models on aggregate market share data
-* Coauthored with Christian Oertel (U Zurich)
-* *Status: In development*
-* [Github](https://github.com/lachlandeer/demandr)
+* Coauthored with [Christian Oertel](http://www.econ.uzh.ch/en/people/graduatestudents/oertel.html) (U Zurich)
+* *Status: Under development*
+* Code: available on [Github](https://github.com/lachlandeer/demandr)
 
 <!---
 # * [Website](https://lachlandeer.github.io/demandr)
@@ -48,7 +48,7 @@ weight = 70
 
 * Provides all data sets used in textbook, and companion code to each chapter in text
 * [Website](https://lachlandeer.github.io/hayashir)
-* [Github](https://github.com/lachlandeer/hayashir)
+* Code: available on [Github](https://github.com/lachlandeer/hayashir)
 
 <!---
 * [CRAN](somelink)

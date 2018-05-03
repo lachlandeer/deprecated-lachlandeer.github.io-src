@@ -20,13 +20,19 @@ weight = 70
 
 #### `demandr`: Nested Logit Demand Models in Empirical IO
 * Estimate Nested Logit Demand models on aggregate market share data
-* [Website](https://lachlandeer.github.io/demandr)
-* [CRAN](somelink)
+* Coauthored with Christian Oertel (U Zurich)
+* *Status: In development*
 * [Github](https://github.com/lachlandeer/demandr)
 
+<!---
+# * [Website](https://lachlandeer.github.io/demandr)
+# * [CRAN](somelink) --->
 
+<!---
 #### `mergersim`: Merger Simulation for Empirical IO
+--->
 
+<!---
 ## Marketing
 
 #### `dominicksr`: 
@@ -34,12 +40,16 @@ weight = 70
 * [Website](https://lachlandeer.github.io/dominicksr)
 * [CRAN](somelink)
 * [Github](https://github.com/lachlandeer/dominicsr)
+--->
 
 ## Econometrics
 
 #### `hayshir`: R Companion to "Econometrics" by Fumio Hayashi
 
-* Provides all data sets used in textbook
+* Provides all data sets used in textbook, and companion code to each chapter in text
 * [Website](https://lachlandeer.github.io/hayashir)
-* [CRAN](somelink)
 * [Github](https://github.com/lachlandeer/hayashir)
+
+<!---
+* [CRAN](somelink)
+--->

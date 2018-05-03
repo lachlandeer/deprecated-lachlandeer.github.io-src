@@ -30,8 +30,13 @@ Official documentation for Snakemake is [here](https://snakemake.readthedocs.io/
 Below are some templates that I use for my research and an extended tutorial.
 
 * [Snakemake template for `R`](https://github.com/lachlandeer/snakemake-r)
+    * *Status: Under development*
+    * Coauthored with [Julian Langer](https://julianlanger.github.io) (U Zurich)
+    
+<!---
 * [Snakemake template for `Python`](https://github.com/lachlandeer/snakemake-python)
 * [An extended Snakemake tutorial](https://github.com/lachlandeer/snakemake-economics)
+--->
 
 Some of my older projects use `Waf` to implement a reproducible workflow. `Waf` was introduced to me by [Hans-Martin von Gaudecker](http://wiwi.uni-bonn.de/gaudecker/index.html). 
 He provides great templates [here](https://github.com/hmgaudecker/econ-project-templates) in multiple programming languages along with an [extended tutorial](http://hmgaudecker.github.io/econ-project-templates/). 
@@ -42,15 +47,20 @@ It's a good alternative, but I think the Waf learning curve is a tad steeper.
 
 Most of my written work is in markdown. Here are some templates I regularly use:
 
-* [Article templates](https://github.com/lachlandeer/bookdown-rticles) with `bookdown` and `rticles`
+* [Article templates](https://github.com/lachlandeer/bookdown_rticles) with `bookdown` and `rticles`
 * [Beamer slide template](https://github.com/lachlandeer/beamer-LagonBleu) with `markdown`
 * [CV template](https://github.com/lachlandeer/lachlandeer-cv) with `Rmarkdown`
 * [HTML slide template](https://github.com/lachlandeer/xaringan-template) with `Rmarkdown` and `xaringan`
+
+<!---
 * [UZH Thesis templates](https://github.com/lachlandeer/thesisdown-uzh) with `Rmarkdown`
 * [UZH Letter template](https://github.com/lachlandeer/uzh-letter) with `Rmarkdown`
+--->
 
+<!---
 ## Other tutorials
 Some other tutorials I have put together over the years:
 
 * [Data Wrangling with Pandas: A Guide for Economists](https://github.com/lachlandeer/pandas-economics)
 * [Estimating Econometric Models with GMM in R](https://github.com/lachlandeer/gmm-r)
+--->

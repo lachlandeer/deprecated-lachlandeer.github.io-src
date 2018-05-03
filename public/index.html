@@ -25,7 +25,7 @@
 
   
   
-  <meta name="theme-color" content="hsl(339, 90%, 68%)">
+  <meta name="theme-color" content="#0095eb">
   
   
   
@@ -36,7 +36,7 @@
     
     
       
-        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css">
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
       
     
   
@@ -52,6 +52,8 @@
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
   
   <link rel="stylesheet" href="/styles.css">
+  
+  <link rel="stylesheet" href="/css/blue.css">
   
 
   
@@ -99,7 +101,7 @@
   <title>Lachlan Deer</title>
 
 </head>
-<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" class="dark">
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
 
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
   <div class="container">
@@ -937,18 +939,21 @@ My research interests lie in empirical industrial organization and quantitative 
 <li><a href="https://butterflyology.github.io/2017-02-14-kcfrb/" target="_blank">Federal Reserve in Kansas City</a>, Feb 2017</li>
 </ul>
 
-<p>Lesson Maintainence (with many others!):</p>
+<p>Lesson Maintainence (with many others):</p>
 
 <ul>
 <li><a href="http://www.datacarpentry.org/r-spatial-data-management-intro/" target="_blank">Introduction to Geospatial Data</a> (<em>under development</em>)</li>
+<li><a href="http://www.datacarpentry.org/r-intro-geospatial/" target="_blank">Introduction to R for Geospatial Data</a>(<em>under development</em>)</li>
 <li><a href="http://www.datacarpentry.org/R-spatial-raster-vector-lesson/" target="_blank">Introduction to Geospatial Data with R</a> (<em>under development</em>)</li>
 </ul>
 
 <p>Contributions to lessons:</p>
 
 <ul>
-<li><a href="http://datacarpentry.org/R-ecology-lesson" target="_blank">Data Carpentry: R for data analysis and visualization of Ecological Data</a></li>
-<li><a href="http://swcarpentry.github.io/r-novice-gapminder/" target="_blank">Software Carpentry: R for Reproducible Scientific Analysis</a></li>
+<li><a href="http://www.datacarpentry.org/spreadsheets-socialsci/" target="_blank">Data Organization in Spreadsheets for Social Scientists</a></li>
+<li><a href="http://www.datacarpentry.org/openrefine-socialsci/" target="_blank">OpenRefine for Social Science Data</a></li>
+<li><a href="http://swcarpentry.github.io/r-novice-gapminder/" target="_blank">R for Reproducible Scientific Analysis</a></li>
+<li><a href="http://datacarpentry.org/R-ecology-lesson" target="_blank">R for data analysis and visualization of Ecological Data</a></li>
 </ul>
 
 <h2 id="thesis-supervision">Thesis Supervision</h2>
@@ -993,34 +998,42 @@ Contact me via email if you are interested in knowing more.</p>
 
 <ul>
 <li>Estimate Nested Logit Demand models on aggregate market share data</li>
-<li><a href="https://lachlandeer.github.io/demandr" target="_blank">Website</a></li>
-<li><a href="somelink" target="_blank">CRAN</a></li>
-<li><a href="https://github.com/lachlandeer/demandr" target="_blank">Github</a></li>
+<li>Coauthored with <a href="http://www.econ.uzh.ch/en/people/graduatestudents/oertel.html" target="_blank">Christian Oertel</a> (U Zurich)</li>
+<li><em>Status: Under development</em></li>
+<li>Code: available on <a href="https://github.com/lachlandeer/demandr" target="_blank">Github</a></li>
 </ul>
 
-<h4 id="mergersim-merger-simulation-for-empirical-io"><code>mergersim</code>: Merger Simulation for Empirical IO</h4>
+<!---
+# * [Website](https://lachlandeer.github.io/demandr)
+# * [CRAN](somelink) --->
 
-<h2 id="marketing">Marketing</h2>
+<!---
+#### `mergersim`: Merger Simulation for Empirical IO
+--->
 
-<h4 id="dominicksr"><code>dominicksr</code>:</h4>
+<!---
+## Marketing
 
-<ul>
-<li>Provides data from the Dominicks Finer Food database provided by Kilt&rsquo;s Center for Marketing at Chicago Booth</li>
-<li><a href="https://lachlandeer.github.io/dominicksr" target="_blank">Website</a></li>
-<li><a href="somelink" target="_blank">CRAN</a></li>
-<li><a href="https://github.com/lachlandeer/dominicsr" target="_blank">Github</a></li>
-</ul>
+#### `dominicksr`: 
+* Provides data from the Dominicks Finer Food database provided by Kilt's Center for Marketing at Chicago Booth
+* [Website](https://lachlandeer.github.io/dominicksr)
+* [CRAN](somelink)
+* [Github](https://github.com/lachlandeer/dominicsr)
+--->
 
 <h2 id="econometrics">Econometrics</h2>
 
 <h4 id="hayshir-r-companion-to-econometrics-by-fumio-hayashi"><code>hayshir</code>: R Companion to &ldquo;Econometrics&rdquo; by Fumio Hayashi</h4>
 
 <ul>
-<li>Provides all data sets used in textbook</li>
+<li>Provides all data sets used in textbook, and companion code to each chapter in text</li>
 <li><a href="https://lachlandeer.github.io/hayashir" target="_blank">Website</a></li>
-<li><a href="somelink" target="_blank">CRAN</a></li>
-<li><a href="https://github.com/lachlandeer/hayashir" target="_blank">Github</a></li>
+<li>Code: available on <a href="https://github.com/lachlandeer/hayashir" target="_blank">Github</a></li>
 </ul>
+
+<!---
+* [CRAN](somelink)
+--->
 
   </div>
   
@@ -1067,10 +1080,19 @@ Official documentation for Snakemake is <a href="https://snakemake.readthedocs.i
 Below are some templates that I use for my research and an extended tutorial.</p>
 
 <ul>
-<li><a href="https://github.com/lachlandeer/snakemake-r" target="_blank">Snakemake template for <code>R</code></a></li>
-<li><a href="https://github.com/lachlandeer/snakemake-python" target="_blank">Snakemake template for <code>Python</code></a></li>
-<li><a href="https://github.com/lachlandeer/snakemake-economics" target="_blank">An extended Snakemake tutorial</a></li>
+<li><a href="https://github.com/lachlandeer/snakemake-r" target="_blank">Snakemake template for <code>R</code></a>
+
+<ul>
+<li><em>Status: Under development</em></li>
+<li>Coauthored with <a href="https://julianlanger.github.io" target="_blank">Julian Langer</a> (U Zurich)
+<br /></li>
+</ul></li>
 </ul>
+
+<!---
+* [Snakemake template for `Python`](https://github.com/lachlandeer/snakemake-python)
+* [An extended Snakemake tutorial](https://github.com/lachlandeer/snakemake-economics)
+--->
 
 <p>Some of my older projects use <code>Waf</code> to implement a reproducible workflow. <code>Waf</code> was introduced to me by <a href="http://wiwi.uni-bonn.de/gaudecker/index.html" target="_blank">Hans-Martin von Gaudecker</a>.
 He provides great templates <a href="https://github.com/hmgaudecker/econ-project-templates" target="_blank">here</a> in multiple programming languages along with an <a href="http://hmgaudecker.github.io/econ-project-templates/" target="_blank">extended tutorial</a>.
@@ -1081,22 +1103,24 @@ It&rsquo;s a good alternative, but I think the Waf learning curve is a tad steep
 <p>Most of my written work is in markdown. Here are some templates I regularly use:</p>
 
 <ul>
-<li><a href="https://github.com/lachlandeer/bookdown-rticles" target="_blank">Article templates</a> with <code>bookdown</code> and <code>rticles</code></li>
+<li><a href="https://github.com/lachlandeer/bookdown_rticles" target="_blank">Article templates</a> with <code>bookdown</code> and <code>rticles</code></li>
 <li><a href="https://github.com/lachlandeer/beamer-LagonBleu" target="_blank">Beamer slide template</a> with <code>markdown</code></li>
 <li><a href="https://github.com/lachlandeer/lachlandeer-cv" target="_blank">CV template</a> with <code>Rmarkdown</code></li>
 <li><a href="https://github.com/lachlandeer/xaringan-template" target="_blank">HTML slide template</a> with <code>Rmarkdown</code> and <code>xaringan</code></li>
-<li><a href="https://github.com/lachlandeer/thesisdown-uzh" target="_blank">UZH Thesis templates</a> with <code>Rmarkdown</code></li>
-<li><a href="https://github.com/lachlandeer/uzh-letter" target="_blank">UZH Letter template</a> with <code>Rmarkdown</code></li>
 </ul>
 
-<h2 id="other-tutorials">Other tutorials</h2>
+<!---
+* [UZH Thesis templates](https://github.com/lachlandeer/thesisdown-uzh) with `Rmarkdown`
+* [UZH Letter template](https://github.com/lachlandeer/uzh-letter) with `Rmarkdown`
+--->
 
-<p>Some other tutorials I have put together over the years:</p>
+<!---
+## Other tutorials
+Some other tutorials I have put together over the years:
 
-<ul>
-<li><a href="https://github.com/lachlandeer/pandas-economics" target="_blank">Data Wrangling with Pandas: A Guide for Economists</a></li>
-<li><a href="https://github.com/lachlandeer/gmm-r" target="_blank">Estimating Econometric Models with GMM in R</a></li>
-</ul>
+* [Data Wrangling with Pandas: A Guide for Economists](https://github.com/lachlandeer/pandas-economics)
+* [Estimating Econometric Models with GMM in R](https://github.com/lachlandeer/gmm-r)
+--->
 
   </div>
   

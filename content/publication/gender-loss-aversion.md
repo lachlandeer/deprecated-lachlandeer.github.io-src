@@ -17,17 +17,17 @@ authors = ["R. Bouchouicha", "L. Deer", "A. Eid", "P. McGee", "D Schoch", "H. St
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "*Working Paper* (Submitted)"
+publication_short = "*Working Paper* (Submitted)"
 
 # Abstract and optional shortened version.
-abstract = "Gender  effects  in  risk  taking  have  attracted  much  attention  by  economists,  andremain  debated.  Loss  aversion—the  stylized  finding  that  a  given  loss  carries  sub-stantially  greater  weight  for  decisions  than  a  monetarily  equivalent  gain — is  a  funda-mental  driver  of  risk  aversion.  We  deploy  four  definitions  of  loss  aversion  commonlyused  in  the  literature  to  investigate  gender  effects.  Even  though  the  definitions  onlydiffer  in  subtle  ways,  we  find  women  to  be  more  loss  averse  than  men  accordingto  one  definition,  while  another  definition  results  in  no  gender  differences,  and  theremaining  two  definitions  point  to  women  beinglessloss  averse  than  men.  Conceptually,  these  contradictory  effects  can  be  organized  by  systematic  measurementerror  resulting  from  model  mis-specifications  relative  to  the  true  underlying  decisionprocess."
+abstract = "Gender  effects  in  risk  taking  have  attracted  much  attention  by  economists,  andremain  debated.  Loss  aversion — the  stylized  finding  that  a  given  loss  carries  substantially  greater  weight  for  decisions  than  a  monetarily  equivalent  gain — is  a  fundamental  driver  of  risk  aversion.  We  deploy  four  definitions  of  loss  aversion  commonlyused  in  the  literature  to  investigate  gender  effects.  Even  though  the  definitions  onlydiffer  in  subtle  ways,  we  find  women  to  be  more  loss  averse  than  men  accordingto  one  definition,  while  another  definition  results  in  no  gender  differences,  and  theremaining  two  definitions  point  to  women  beinglessloss  averse  than  men.  Conceptually,  these  contradictory  effects  can  be  organized  by  systematic  measurementerror  resulting  from  model  mis-specifications  relative  to  the  true  underlying  decision process."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

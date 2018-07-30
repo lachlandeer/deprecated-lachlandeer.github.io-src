@@ -19,16 +19,11 @@ weight = 60
 
 As an Instructor:
 
-* [Programming Practices for Research in Economics](https://github.com/pp4rs), 2nd year PhD Course.
+* [Programming Practices for Research in Economics](https://pp4rs.github.io), 2nd year PhD Course.
 
     * Co-taught with [Adrian Etter](https://www.linkedin.com/in/adrian-etter-88351565/), [Julian Langer](https://www.julianlanger.github.io) and [Max Winkler](http://www.econ.uzh.ch/people/graduatestudents/winkler.html)
 
     * 2017 Edition: [Course Home Page](http://pp4rs.github.io/2017-uzh), [Course Material](https://github.com/pp4rs/2017-uzh-course-material) & [Installation Guide](http://pp4rs.github.io/installation-guide)  
-
-    * 2016 Edition: [Syllabus](http://github.com/lachlandeer/lachlandeer.github.io/blob/master/static/syllabus-prog-course-2016.pdf)
-
-<!-- * [Preliminary Syllabus](http://github.com/lachlandeer/lachlandeer.github.io/blob/master/static/syllabus-prog-course-2016.pdf)
-* [Software Installation Guide](http://lachlandeer.github.io/prog-course-install-guide) -->
 
 As a Teaching Assistant:
 
@@ -49,14 +44,13 @@ Workshops:
 
 Lesson Maintainence (with many others):
 
-* [Introduction to Geospatial Data](http://www.datacarpentry.org/r-spatial-data-management-intro/) (*under development*)
-* [Introduction to R for Geospatial Data](http://www.datacarpentry.org/r-intro-geospatial/)(*under development*)
-* [Introduction to Geospatial Data with R](http://www.datacarpentry.org/R-spatial-raster-vector-lesson/) (*under development*)
+* [Introduction to R for Geospatial Data](http://www.datacarpentry.org/r-intro-geospatial/)
 
 Contributions to lessons:
 
 * [Data Organization in Spreadsheets for Social Scientists](http://www.datacarpentry.org/spreadsheets-socialsci/)
 * [OpenRefine for Social Science Data](http://www.datacarpentry.org/openrefine-socialsci/)
+* [Introduction to Geospatial Data with R](http://www.datacarpentry.org/R-spatial-raster-vector-lesson/)
 * [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
 * [R for data analysis and visualization of Ecological Data](http://datacarpentry.org/R-ecology-lesson)
 

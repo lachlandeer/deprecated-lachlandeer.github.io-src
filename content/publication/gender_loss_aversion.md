@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "#"
+abstract = "Gender  effects  in  risk  taking  have  attracted  much  attention  by  economists,  andremain  debated.  Loss  aversion—the  stylized  finding  that  a  given  loss  carries  sub-stantially  greater  weight  for  decisions  than  a  monetarily  equivalent  gain — is  a  funda-mental  driver  of  risk  aversion.  We  deploy  four  definitions  of  loss  aversion  commonlyused  in  the  literature  to  investigate  gender  effects.  Even  though  the  definitions  onlydiffer  in  subtle  ways,  we  find  women  to  be  more  loss  averse  than  men  accordingto  one  definition,  while  another  definition  results  in  no  gender  differences,  and  theremaining  two  definitions  point  to  women  beinglessloss  averse  than  men.  Conceptually,  these  contradictory  effects  can  be  organized  by  systematic  measurementerror  resulting  from  model  mis-specifications  relative  to  the  true  underlying  decisionprocess."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,7 +36,7 @@ selected = false
 
 # Links (optional).
 #url_preprint = "#"
-#url_pdf = "http://www.econ.uzh.ch/static/wp/econwp268.pdf"
+#url_pdf = "http://lachlandeer.github.io/files/11_loss_aversion_gender.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"

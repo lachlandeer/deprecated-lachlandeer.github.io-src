@@ -3,7 +3,7 @@ title = "Gender Effects and Loss Aversion: Yes, No, Maybe?"
 date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["F. Veieider", "L. Deer", "A. Eid", "P. McGee", "D Schoch", "H. Stojic"]
+authors = ["R. Bouchouicha", "L. Deer", "A. Eid", "P. McGee", "D Schoch", "H. Stojic", "J. Ygosse-Battisti", "F. Veieider"]
 
 # Publication type.
 # Legend:
@@ -14,7 +14,7 @@ authors = ["F. Veieider", "L. Deer", "A. Eid", "P. McGee", "D Schoch", "H. Stoji
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = ""

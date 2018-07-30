@@ -36,7 +36,7 @@ selected = false
 
 # Links (optional).
 #url_preprint = "#"
-#url_pdf = "http://lachlandeer.github.io/files/11_loss_aversion_gender.pdf"
+url_pdf = "http://lachlandeer.github.io/files/11_loss_aversion_gender.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"

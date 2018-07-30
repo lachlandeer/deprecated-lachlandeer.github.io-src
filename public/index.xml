@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Gender Effects and Loss Aversion: Yes, No, Maybe?</title>
+      <link>/publication/gender-loss-aversion/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gender-loss-aversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Behaviourally Accurate Measures of Loss Aversion</title>
       <link>/publication/behav_accurate_loss_aversion/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -34,15 +43,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/endogenous_riots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gender Effects and Loss Aversion: Yes, No, Maybe?</title>
-      <link>/publication/gender_loss_aversion/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/gender_loss_aversion/</guid>
       <description></description>
     </item>
     

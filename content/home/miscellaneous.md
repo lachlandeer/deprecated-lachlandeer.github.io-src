@@ -29,7 +29,7 @@ It was originally designed for Bioinformatics workflows, but I have found it sui
 Official documentation for Snakemake is [here](https://snakemake.readthedocs.io/en/stable/). 
 Below are some templates that I use for my research and an extended tutorial.
 
-* [Snakemake template for `R`](https://github.com/lachlandeer/snakemake-r)
+* [Snakemake template for `R`](https://github.com/lachlandeer/snakemake-econ-r)
     * *Status: Under development*
     * Coauthored with [Julian Langer](https://julianlanger.github.io) (U Zurich)
     

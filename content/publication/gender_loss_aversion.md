@@ -1,6 +1,6 @@
 +++
 title = "Gender Effects and Loss Aversion: Yes, No, Maybe?"
-date = "2018-01-01"
+date = "2018-07-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["R. Bouchouicha", "L. Deer", "A. Eid", "P. McGee", "D Schoch", "H. Stojic", "J. Ygosse-Battisti", "F. Veieider"]

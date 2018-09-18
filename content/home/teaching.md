@@ -36,6 +36,7 @@ I am an instructor & lesson maintainer for Software Carpentry and Data Carpenty,
 
 Workshops:
 
+* [University of Trento](https://mkcor.github.io/2018-11-14-trento/), November 2018
 * [University of Geneva](https://lachlandeer.github.io/2018-03-08-geneva/), March 2018
 * [Karolinska Institute](https://hadrieng.github.io/2017-10-16-karolinska/), October 2017
 * [Stanford](https://lachlandeer.github.io/2017-06-01-stanford/), June 2017

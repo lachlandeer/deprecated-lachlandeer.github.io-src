@@ -1,5 +1,5 @@
 +++
-title = "`demandr`: Nested Logit Demand Estimation with Aggregate Market Shares"
+title = "demandr: Nested Logit Demand Estimation with Aggregate Market Shares (R package)"
 date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "#"
+abstract = "Estimate Nested Logit Demand models on aggregate market share data"
 
 # Featured image thumbnail (optional)
 image_preview = ""

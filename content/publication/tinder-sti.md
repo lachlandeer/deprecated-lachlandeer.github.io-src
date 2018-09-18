@@ -1,9 +1,9 @@
 +++
-title = "Endogenous Riot Networks"
+title = "Swipe Right for an STI? Tinder and the Increase STIs in the United States"
 date = "2018-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L. Deer", "M. Koenig", "F. Vega-Redondo"]
+authors = ["L. Deer", "P. Schmidt"]
 
 # Publication type.
 # Legend:
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "#"
+abstract = "Studies whether the introduction of the dating app 'Tinder' caused a rise in STI infections in the United States"
 
 # Featured image thumbnail (optional)
 image_preview = ""

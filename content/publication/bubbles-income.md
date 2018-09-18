@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "#"
+abstract = "Studies how economy wide income shocks influence consumption decisions and asset trading in an experimental economy"
 
 # Featured image thumbnail (optional)
 image_preview = ""

@@ -3,7 +3,7 @@ title = "Behaviourally Accurate Measures of Loss Aversion"
 date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L. Deer", "F. Veieider"]
+authors = ["L. Deer", "F. Vieider"]
 
 # Publication type.
 # Legend:
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "#"
+abstract = "Assesses how well state of the art estimation techniques for loss aversion fit data for mixed prospect choices"
 
 # Featured image thumbnail (optional)
 image_preview = ""

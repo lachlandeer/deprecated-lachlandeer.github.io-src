@@ -1,9 +1,9 @@
 +++
-title = "Endogenous Riot Networks"
+title = "Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals"
 date = "2018-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L. Deer", "M. Koenig", "F. Vega-Redondo"]
+authors = ["L. Deer"]
 
 # Publication type.
 # Legend:
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "#"
+abstract = "Uses Topic Model analysis to evaluate trends in research topics in leading economics journals"
 
 # Featured image thumbnail (optional)
 image_preview = ""

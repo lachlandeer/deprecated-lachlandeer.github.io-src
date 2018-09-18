@@ -11,6 +11,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Social Media Buzz and the New Product Performance: Evidence from the Movies</title>
+      <link>/publication/social-media-demand/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/social-media-demand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Endogenous Riot Networks</title>
+      <link>/publication/endogenous-riots/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/endogenous-riots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swipe Right for an STI? Tinder and the Increase STIs in the United States</title>
+      <link>/publication/tinder-sti/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tinder-sti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals</title>
+      <link>/publication/trendy-topics/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/trendy-topics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gender Effects and Loss Aversion: Yes, No, Maybe?</title>
       <link>/publication/gender-loss-aversion/</link>
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
@@ -21,46 +57,46 @@
     
     <item>
       <title>Behaviourally Accurate Measures of Loss Aversion</title>
-      <link>/publication/behav_accurate_loss_aversion/</link>
+      <link>/publication/behav-accurate-loss-aversion/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/behav_accurate_loss_aversion/</guid>
+      <guid>/publication/behav-accurate-loss-aversion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consumption and Asset Trading Behaviour in a Dynamic Experimental Economy</title>
-      <link>/publication/bubbles_income/</link>
+      <link>/publication/bubbles-income/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/bubbles_income/</guid>
+      <guid>/publication/bubbles-income/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Endogenous Riot Networks</title>
-      <link>/publication/endogenous_riots/</link>
+      <title>How Advertising Influences Word of Mouth: Evidence from Twitter</title>
+      <link>/publication/ads-wom-topics/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/endogenous_riots/</guid>
+      <guid>/publication/ads-wom-topics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Merger Simulation in R - A User&#39;s Guide</title>
-      <link>/publication/merger_sim_r/</link>
+      <title>demandr: Nested Logit Demand Estimation with Aggregate Market Shares (R package)</title>
+      <link>/publication/demandr/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/merger_sim_r/</guid>
+      <guid>/publication/demandr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tweeting to Success? Word of Mouth on Consumer and Firm Learning in the Motion Picture Industry</title>
-      <link>/publication/movies_project/</link>
+      <title>mergersim: Merger Simulation Analysis with R (R package)</title>
+      <link>/publication/mergersim/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/movies_project/</guid>
+      <guid>/publication/mergersim/</guid>
       <description></description>
     </item>
     

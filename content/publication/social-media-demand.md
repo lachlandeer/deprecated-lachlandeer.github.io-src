@@ -1,9 +1,9 @@
 +++
-title = "Endogenous Riot Networks"
-date = "2018-09-01"
+title = "Social Media Buzz and the New Product Performance: Evidence from the Movies"
+date = "2018-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L. Deer", "M. Koenig", "F. Vega-Redondo"]
+authors = ["P.K. Chintagunta", "G.S. Crawford", "L. Deer"]
 
 # Publication type.
 # Legend:
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "#"
+abstract = "Estimate the effects of the volume of Twitter posts and consumer sentiment expressed on Twitter on the demand for movies"
 
 # Featured image thumbnail (optional)
 image_preview = ""

@@ -1,9 +1,9 @@
 +++
-title = "Tweeting to Success? Word of Mouth on Consumer and Firm Learning in the Motion Picture Industry"
+title = "mergersim: Merger Simulation Analysis with R (R package)"
 date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P.K. Chintagunta", "G.S. Crawford", "L. Deer"]
+authors = ["L. Deer", "C. Oertel"]
 
 # Publication type.
 # Legend:
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "#"
+abstract = "Conduct merger simulation analysis with a nested logit demand model"
 
 # Featured image thumbnail (optional)
 image_preview = ""

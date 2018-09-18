@@ -18,7 +18,7 @@ weight = 70
 
 ## Empirical IO
 
-#### `demandr`: Nested Logit Demand Models in Empirical IO
+#### `demandr`: Nested Logit Demand Estimation with Aggregate Market Shares
 * Estimate Nested Logit Demand models on aggregate market share data
 * Coauthored with [Christian Oertel](http://www.econ.uzh.ch/en/people/graduatestudents/oertel.html) (U Zurich)
 * *Status: Under development*

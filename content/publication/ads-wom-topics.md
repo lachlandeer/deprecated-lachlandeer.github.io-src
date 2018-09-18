@@ -1,9 +1,9 @@
 +++
-title = "Endogenous Riot Networks"
-date = "2018-09-01"
+title = "How Advertising Influences Word of Mouth: Evidence from Twitter"
+date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L. Deer", "M. Koenig", "F. Vega-Redondo"]
+authors = ["L. Deer"]
 
 # Publication type.
 # Legend:
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "#"
+abstract = "Studies how television advertising influences the topics of conversation on Twitter"
 
 # Featured image thumbnail (optional)
 image_preview = ""

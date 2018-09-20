@@ -1,5 +1,5 @@
 .Rproj*
 .Rproj.user
 .Rhistory
-public/*
+public/
 static/slides/teaching/*/*.html

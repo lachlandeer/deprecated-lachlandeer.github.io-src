@@ -1,6 +1,6 @@
 +++
 title = "How Advertising Influences Word of Mouth: Evidence from Twitter"
-date = "2018-01-01"
+date = "2018-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["L. Deer"]

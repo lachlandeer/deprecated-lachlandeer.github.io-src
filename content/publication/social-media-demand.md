@@ -1,9 +1,9 @@
 +++
-title = "Social Media Buzz and the New Product Performance: Evidence from the Movies"
+title = "The Impact of Twitter on New Product Performance: Evidence from the Movies"
 date = "2018-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["P.K. Chintagunta", "G.S. Crawford", "L. Deer"]
+authors = ["L. Deer", "P.K. Chintagunta", "G.S. Crawford"]
 
 # Publication type.
 # Legend:

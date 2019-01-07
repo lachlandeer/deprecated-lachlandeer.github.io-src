@@ -3,7 +3,7 @@ title = "Endogenous Riot Networks"
 date = "2018-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L. Deer", "M. Koenig", "F. Vega-Redondo"]
+authors = ["F.J. Barreda ", "L. Deer",  "C.S Hsieh",  "M. Koenig", "F. Vega-Redondo"]
 
 # Publication type.
 # Legend:

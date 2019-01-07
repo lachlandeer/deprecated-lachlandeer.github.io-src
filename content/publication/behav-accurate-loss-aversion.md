@@ -14,7 +14,8 @@ authors = ["L. Deer", "F. Vieider"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["6"] 
+# hide it while not actually happening
 
 # Publication name and optional abbreviated version.
 publication = ""

@@ -19,11 +19,17 @@ weight = 60
 
 As an Instructor:
 
+* [Programming Practices for Research in Economics: Foundations](https://pp4rs.github.io), 1st year PhD Course.
+
+    * Co-taught with [Julian Langer](https://www.julianlanger.github.io)
+    * 2019 Edition: [Course Home Page](http://pp4rs.github.io/2019-foundations-uzh), [Course Material](https://github.com/pp4rs/2019-foundations-uzh-material) & [Installation Guide](http://pp4rs.github.io/foundations-installation-guide)   
+
 * [Programming Practices for Research in Economics](https://pp4rs.github.io), 2nd year PhD Course.
 
     * Co-taught with [Adrian Etter](https://www.linkedin.com/in/adrian-etter-88351565/), [Julian Langer](https://www.julianlanger.github.io) and [Max Winkler](http://www.econ.uzh.ch/people/graduatestudents/winkler.html)
 
     * 2017 Edition: [Course Home Page](http://pp4rs.github.io/2017-uzh), [Course Material](https://github.com/pp4rs/2017-uzh-course-material) & [Installation Guide](http://pp4rs.github.io/installation-guide)  
+    * 2016 Edition: Drop me an email for the detailed material. It's similar to the 2017 edition. 
 
 As a Teaching Assistant:
 
@@ -36,6 +42,7 @@ I am an instructor & lesson maintainer for Software Carpentry and Data Carpenty,
 
 Workshops:
 
+* [University of Zurich](https://uzhcrs.github.io/2019-02-07-zurich/), February 2019
 * [University of Trento](https://mkcor.github.io/2018-11-14-trento/), November 2018
 * [University of Geneva](https://lachlandeer.github.io/2018-03-08-geneva/), March 2018
 * [Karolinska Institute](https://hadrieng.github.io/2017-10-16-karolinska/), October 2017

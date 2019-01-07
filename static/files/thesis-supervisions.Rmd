@@ -6,6 +6,11 @@ output: pdf_document
 ---
 
 # Master's Theses
+
+## 2019
+
+* Dynamic Pricing Under Demand Uncertainty
+
 ## 2018
 
 * Does Advertising Respond to Consumer Sentiment? Evidence from the Film Industry
@@ -20,6 +25,7 @@ output: pdf_document
 
 ## 2018
 
+* Nested Logit Demand Estimation with Aggregate Market Shares
 * An Emprical Analysis of Pre-release Word of Mouth on New Product Performance
 * Social Spillovers and Consumer Learning in the Movie Industry
 

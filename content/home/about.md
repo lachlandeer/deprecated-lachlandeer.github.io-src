@@ -10,18 +10,23 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Empirical IO",
     "Quantitative Marketing",
-    "Structural Econometrics",
+    "Digital Marketing",
+    "Social Media",
     "Applied Econometrics",
-    "Social Media"
+    "Media & Entertainment Industries"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Economics"
   institution = "University of Zurich"
-  year = "2019 (expected)"
+  year = "2019"
+
+[[education.courses]]
+  course = "Visiting Researcher"
+  institution = "Stanford GSB"
+  year = "Oct. 2016 - June 2017"
 
 [[education.courses]]
   course = "MSc in Economics"
@@ -42,8 +47,16 @@ weight = 5
 
 # About Me
 
-I am a PhD Candidate at the Department of Economics at the University of Zurich.
-My research interests lie in empirical industrial organization and quantitative marketing.
+In Summer 2019, I will join the Marketing Group at Booth School of Business as a Post-Doctoral Fellow.
+I recently completed my PhD in Economics at the University of Zurich.
 
-You can find a pdf version of my CV [here](files/lachlandeer-cv.pdf).
-Alternatively, you can view a [visual summary](img/visual-cv-deer.png).
+My research interests lie in quantitative marketing.
+Current research leverages tools from Machine Learning and Natural Language Processing, integrating their outputs into structural models of decision making to understand:
+
+* The impact of social media content on consumer demand for new products
+* How the structure of online networks influence the spread of information, ultimately influencing opinion & decision making
+
+<strong style="color: red;">I'm on the job market</strong>. I will be available for interviews at the AMA Summer Academic Meeting in Chicago from August 8 - 11.
+
+* My CV can be downloaded [here](files/lachlandeer-cv.pdf).
+* [Download](files/lachlandeer-cv.pdf) my Job Market Paper, "The Impact of Twitter on New Product Performance".

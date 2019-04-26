@@ -1,9 +1,9 @@
 +++
 title = "How Advertising Influences Word of Mouth: Evidence from Twitter"
-date = "2018-09-01"
+date = "2019-06-06"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L. Deer"]
+authors = ["L. Deer", "P.K. Chintagunta", "G.S. Crawford"]
 
 # Publication type.
 # Legend:
@@ -27,7 +27,7 @@ abstract = "Studies how television advertising influences the topics of conversa
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -40,7 +40,7 @@ selected = false
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
-#url_slides = "#"
+url_slides = "http://lachlandeer.github.io/files/ads_tweets_wom.pdf"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"
@@ -58,7 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 #[header]
-#image = "headers/bubbles-wide.jpg"
+image = "twitter_advertising.png"
 #caption = "My caption :smile:"
 
 +++

@@ -17,8 +17,8 @@ authors = ["R. Bouchouicha", "L. Deer", "A. Eid", "P. McGee", "D Schoch", "H. St
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "*Working Paper* (Submitted)"
-publication_short = "*Working Paper* (Submitted)"
+publication = "*Working Paper*"
+publication_short = "*Working Paper*"
 
 # Abstract and optional shortened version.
 abstract = "Gender  effects  in  risk  taking  have  attracted  much  attention  by  economists,  and remain  debated.  Loss  aversion — the  stylized  finding  that  a  given  loss  carries  substantially  greater  weight  for  decisions  than  a  monetarily  equivalent  gain — is  a  fundamental  driver  of  risk  aversion.  We  deploy  four  definitions  of  loss  aversion  commonly used  in  the  literature  to  investigate  gender  effects.  Even  though  the  definitions  only differ  in  subtle  ways,  we  find  women  to  be  more  loss  averse  than  men  according to  one  definition,  while  another  definition  results  in  no  gender  differences,  and  the remaining  two  definitions  point  to  women  being less loss  averse  than  men.  Conceptually,  these  contradictory  effects  can  be  organized  by  systematic  measurement error  resulting  from  model  mis-specifications  relative  to  the  true  underlying  decision process."
@@ -27,7 +27,7 @@ abstract = "Gender  effects  in  risk  taking  have  attracted  much  attention 
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -53,7 +53,7 @@ url_pdf = "http://lachlandeer.github.io/files/11_loss_aversion_gender.pdf"
 math = true
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.

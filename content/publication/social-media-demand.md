@@ -1,6 +1,6 @@
 +++
-title = "The Impact of Twitter on New Product Performance: Evidence from the Movies"
-date = "2018-10-01"
+title = "The Impact of Twitter on New Product Performance"
+date = "2019-06-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["L. Deer", "P.K. Chintagunta", "G.S. Crawford"]
@@ -27,7 +27,7 @@ abstract = "Estimate the effects of the volume of Twitter posts and consumer sen
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -36,11 +36,11 @@ selected = false
 
 # Links (optional).
 #url_preprint = "#"
-#url_pdf = "http://www.econ.uzh.ch/static/wp/econwp268.pdf"
+url_pdf = "http://lachlandeer.github.io/files/deer_jmp.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
-#url_slides = "#"
+url_slides = "http://lachlandeer.github.io/files/deer_jmp_slides.pdf"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"
@@ -58,7 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 #[header]
-#image = "headers/bubbles-wide.jpg"
+image = "twitter_movies.png"
 #caption = "My caption :smile:"
 
 +++

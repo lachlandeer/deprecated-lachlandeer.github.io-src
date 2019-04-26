@@ -1,6 +1,6 @@
 +++
 title = "Endogenous Riot Networks"
-date = "2018-09-01"
+date = "2019-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["F.J. Barreda ", "L. Deer",  "C.S Hsieh",  "M. Koenig", "F. Vega-Redondo"]
@@ -21,13 +21,13 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "#"
+abstract = "We analyze binary choice models in communication networks, in which both, the formation of links in the network as well as the action choices are endogenous. We provide a complete characterization of  the equilibrium action choices and networks, where agents choose their strategies - actions and links - according to a perturbed best response update rule. We show that a threshold exists in the linking cost and the conformity parameter, giving rise to either a sparse or a densely connected communication network. Moreover, we show how the theoretical model can be efficiently estimated using cross sectional data on agents choices and their network of interactions. We then bring the model to the data by using a unique dataset of Twitter users that allows us to construct their social networks during the popular uprisings in all north African countries during the Arab spring. We use machine learning methods to map the textual content of tweets back to the model primitives and estimate the full structural model."
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -40,7 +40,7 @@ selected = false
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
-#url_slides = "#"
+url_slides = "http://lachlandeer.github.io/files/riots_preview.pdf"
 #url_video = "#"
 #url_poster = "#"
 #url_source = "#"
@@ -58,7 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 #[header]
-#image = "headers/bubbles-wide.jpg"
+image = "twitter_arab_spring.jpg"
 #caption = "My caption :smile:"
 
 +++

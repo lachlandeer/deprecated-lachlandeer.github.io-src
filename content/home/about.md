@@ -47,16 +47,17 @@ weight = 5
 
 # About Me
 
+I am currently completing my PhD in Economics at the University of Zurich.
 In Summer 2019, I will join the Marketing Group at Booth School of Business as a Post-Doctoral Fellow.
-I recently completed my PhD in Economics at the University of Zurich.
 
-My research interests lie in quantitative marketing.
-Current research leverages tools from Machine Learning and Natural Language Processing, integrating their outputs into structural models of decision making to understand:
+My current research leverages tools from Machine Learning and Natural Language Processing, integrating their outputs into structural econometric models to understand:
 
 * The impact of social media content on consumer demand for new products
-* How the structure of online networks influence the spread of information, ultimately influencing opinion & decision making
+* The interaction between offline advertising and online WoM 
+* How the structure of online networks influence the spread of information & decision making
 
 <strong style="color: red;">I'm on the job market</strong>. I will be available for interviews at the AMA Summer Academic Meeting in Chicago from August 8 - 11.
 
 * My CV can be downloaded [here](files/lachlandeer-cv.pdf).
 * [Download](files/lachlandeer-cv.pdf) my Job Market Paper, "The Impact of Twitter on New Product Performance".
+

@@ -14,7 +14,7 @@ authors = ["L. Deer", "P.K. Chintagunta", "G.S. Crawford"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = ""

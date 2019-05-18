@@ -53,11 +53,11 @@ In Summer 2019, I will join the Marketing Group at Booth School of Business as a
 My current research leverages tools from Machine Learning and Natural Language Processing, integrating their outputs into structural econometric models to understand:
 
 * The impact of social media content on consumer demand for new products
-* The interaction between offline advertising and online WoM 
+* The interaction between offline advertising and online word of mouth
 * How the structure of online networks influence the spread of information & decision making
 
 <strong style="color: red;">I'm on the job market</strong>. I will be available for interviews at the AMA Summer Academic Meeting in Chicago from August 8 - 11.
 
 * My CV can be downloaded [here](files/lachlandeer-cv.pdf).
-* [Download](files/lachlandeer-cv.pdf) my Job Market Paper, "The Impact of Twitter on New Product Performance".
+* Download my Job Market Paper: ["Online WoM and the Performance of New Products."](files/lachlandeer-cv.pdf)
 

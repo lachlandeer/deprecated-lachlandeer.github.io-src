@@ -1,5 +1,5 @@
 +++
-title = "The Impact of Twitter on New Product Performance"
+title = "Online WoM and the Performance of New Products (Job Market Paper)"
 date = "2019-06-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Estimate the effects of the volume of Twitter posts and consumer sentiment expressed on Twitter on the demand for movies"
+abstract = "We investigate the effects of online word of mouth on the demand for new products using Twitter data. Twitter can both generate buzz & awareness as well as provide information on product quality that can readily diffuse through the population.  Leveraging comprehensive data from the US movie industry and Twitter, we estimate a structural model of consumer demand for attending theatrical releases in 2014-2015 that incorporates both information channels. The results show that both channels are important, but differ across types of movies. We find pre-release tweet volume is the most important channel for large franchise movies, generating buzz that influences box office earnings on the opening weekend. Demand for mid tier movies responds to increasing awareness driven by the volume of tweets posted after a movie is released. In contrast, the sentiment expressed in online WoM after a movie’s release influences box office demand in subsequent weekends for smaller movies."
 
 # Featured image thumbnail (optional)
 image_preview = ""

@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Studies how television advertising influences the topics of conversation on Twitter"
+abstract = "We measure the effect of television advertising on online WoM. Specifically, this paper measures the impact of national television advertising by movie studios on Twitter conversations focussed on wide release movies in the minutes directly after an ad airs. The focus on the movie industry, and wide release movies in particular stems from the industry’s emphasis on national television as its main advertising platform and the importance of Twitter WoM in generating buzz and awareness for new release movies. Our empirical approach exploits detailed information on the approximately 1 million movie advertisements aired over 2014 and 2015 and over 100 million movie relevant tweets. "
 
 # Featured image thumbnail (optional)
 image_preview = ""

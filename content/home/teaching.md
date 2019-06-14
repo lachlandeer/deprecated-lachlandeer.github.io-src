@@ -60,7 +60,8 @@ Contributions to lessons:
 * [OpenRefine for Social Science Data](http://www.datacarpentry.org/openrefine-socialsci/)
 * [Introduction to Geospatial Data with R](http://www.datacarpentry.org/R-spatial-raster-vector-lesson/)
 * [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
-* [R for data analysis and visualization of Ecological Data](http://datacarpentry.org/R-ecology-lesson)
+* [R for Data Analysis and Visualization of Ecological Data](http://datacarpentry.org/R-ecology-lesson)
+* [Data Managemanet with SQL for Ecologists](https://datacarpentry.org/sql-ecology-lesson/)
 
 
 ## Thesis Supervision

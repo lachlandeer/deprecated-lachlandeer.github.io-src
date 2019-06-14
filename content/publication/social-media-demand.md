@@ -1,6 +1,6 @@
 +++
 title = "Online WoM and the Performance of New Products (Job Market Paper)"
-date = "2019-06-30"
+date = "2019-08-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["L. Deer", "P.K. Chintagunta", "G.S. Crawford"]

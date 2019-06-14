@@ -1,6 +1,6 @@
 +++
 title = "How Advertising Influences Word of Mouth: Evidence from Twitter"
-date = "2019-06-06"
+date = "2019-07-06"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["L. Deer", "P.K. Chintagunta", "G.S. Crawford"]
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We measure the effect of television advertising on online WoM. Specifically, this paper measures the impact of national television advertising by movie studios on Twitter conversations focussed on wide release movies in the minutes directly after an ad airs. The focus on the movie industry, and wide release movies in particular stems from the industry’s emphasis on national television as its main advertising platform and the importance of Twitter WoM in generating buzz and awareness for new release movies. Our empirical approach exploits detailed information on the approximately 1 million movie advertisements aired over 2014 and 2015 and over 100 million movie relevant tweets. "
+abstract = "This paper investigates whether firms’ advertising influences online consumer word of mouth in new product markets. The increasing importance of online WoM in consumer decision making paired with the rise of ‘second screening’ by consumers means that firms are increasingly seeking to understanding how TV advertising impacts online behaviour. We utilize a large, granular data set on minute-by-minute tweeting behaviour for all wide release movies in the United States over 2014 & 2015 and match it with data on individual ad insertions on national television to study whether TV ads lead to short-run spikes in online WoM. Our econometric approach utilizes a high dimensional fixed effects strategy to control for the quantity of consumer tweets that are not driven by advertising. Preliminary results show that TV ads cause short term increases in online WoM with an extra TV ad leading to 3.5 extra tweets, the equivalent of 1.5 additional minutes of tweeting in minutes where there is no TV advertising. We also show that the effect of ads on tweeting only exists pre-release, and is larger the further away an ad is from the release date."
 
 # Featured image thumbnail (optional)
 image_preview = ""

@@ -1,9 +1,9 @@
 +++
 title = "Endogenous Riot Networks"
-date = "2019-05-01"
+date = "2019-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["F.J. Barreda ", "L. Deer",  "C.S Hsieh",  "M. Koenig", "F. Vega-Redondo"]
+authors = ["F.J. Barreda ", "L. Deer",  "CS. Hsieh",  "M. Koenig", "G. Korkmaz", "F. Vega-Redondo"]
 
 # Publication type.
 # Legend:
@@ -21,7 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We analyze binary choice models in communication networks, in which both, the formation of links in the network as well as the action choices are endogenous. We provide a complete characterization of  the equilibrium action choices and networks, where agents choose their strategies - actions and links - according to a perturbed best response update rule. We show that a threshold exists in the linking cost and the conformity parameter, giving rise to either a sparse or a densely connected communication network. Moreover, we show how the theoretical model can be efficiently estimated using cross sectional data on agents choices and their network of interactions. We then bring the model to the data by using a unique dataset of Twitter users that allows us to construct their social networks during the popular uprisings in all north African countries during the Arab spring. Machine learning methods to map the textual content of tweets back to the model primitives of rioters ideology and actions to enable us to estimate the structural model."
+abstract = "We analyze binary choice models in communication networks, in which both, the formation of links in the network as well as the action choices are endogenous. We provide a complete characterization of  the equilibrium action choices and networks, where agents choose their strategies - actions and links - according to a perturbed best response update rule. We show that a threshold exists in the linking cost and the conformity parameter, giving rise to either a sparse or a densely connected communication network. Moreover, we show how the theoretical model can be efficiently estimated using data on agents choices and their network of interactions. We then structurally estimate the model using datasets of Twitter users that allows us to construct their social networks during the popular uprisings in Latin America and the Arab Spring. Preliminary results emphasize the importance of the actions made by both peers (local effects) and the wider network (global effects)."
 
 # Featured image thumbnail (optional)
 image_preview = ""

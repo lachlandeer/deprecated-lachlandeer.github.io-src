@@ -51,7 +51,7 @@ weight = 5
 I am currently completing my PhD in Economics at the University of Zurich.
 In Summer 2019, I will join the Marketing Group at Chicago Booth School of Business as a Post-Doctoral Fellow.
 
-My current research leverages tools from Machine Learning and Natural Language Processing, integrating their outputs into structural econometric models to understand:
+My current research leverages text as data, utilizing tools from Machine Learning and Natural Language Processing, integrating their outputs into quantitative models to understand:
 
 * The impact of social media content on consumer demand for new products
 * The interaction between offline advertising and online word of mouth
@@ -60,5 +60,5 @@ My current research leverages tools from Machine Learning and Natural Language P
 <strong style="color: red;">I'm on the job market</strong>. I will be available for interviews at the AMA Summer Academic Meeting in Chicago from August 9 - 11.
 
 * My CV can be downloaded [here](files/lachlandeer-cv.pdf).
-* Download my Job Market Paper: ["Online Word of Mouth and the Performance of New Products."](files/lachlandeer-cv.pdf)
+* My Job Market Paper, "Online Word of Mouth and the Performance of New Products" will be available for download in the coming days.
 

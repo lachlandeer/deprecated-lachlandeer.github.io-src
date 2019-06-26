@@ -60,5 +60,5 @@ My current research leverages text as data, utilizing tools from Machine Learnin
 <strong style="color: red;">I'm on the job market</strong>. I will be available for interviews at the AMA Summer Academic Meeting in Chicago from August 9 - 11.
 
 * My CV can be downloaded [here](files/lachlandeer-cv.pdf).
-* My Job Market Paper, "Online Word of Mouth and the Performance of New Products" will be available for download in the coming days.
+* Download my Job Market Paper, "[Online Word of Mouth and the Performance of New Products.](http://lachlandeer.github.io/files/deer_jmp.pdf)"
 

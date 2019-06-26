@@ -36,7 +36,7 @@ selected = true
 
 # Links (optional).
 #url_preprint = "#"
-#url_pdf = "http://lachlandeer.github.io/files/deer_jmp.pdf"
+url_pdf = "http://lachlandeer.github.io/files/deer_jmp.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"

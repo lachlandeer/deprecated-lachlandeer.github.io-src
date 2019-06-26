@@ -55,7 +55,7 @@ My current research leverages text as data, utilizing tools from Machine Learnin
 
 * The impact of social media content on consumer demand for new products
 * The interaction between offline advertising and online word of mouth
-* How the structure of online networks influence the spread of information & decision making
+* How the structure of online networks influence the spread of information and decision making
 
 <strong style="color: red;">I'm on the job market</strong>. I will be available for interviews at the AMA Summer Academic Meeting in Chicago from August 9 - 11.
 

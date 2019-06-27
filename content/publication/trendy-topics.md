@@ -1,6 +1,6 @@
 +++
 title = "Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals"
-date = "2018-09-01"
+date = "2019-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["L. Deer"]

@@ -1,6 +1,6 @@
 +++
 title = "demandr: Nested Logit Demand Estimation with Aggregate Market Shares (R package)"
-date = "2018-01-01"
+date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["L. Deer", "C. Oertel"]

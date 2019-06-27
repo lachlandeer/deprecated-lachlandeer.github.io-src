@@ -17,8 +17,8 @@ authors = ["R. Bouchouicha", "L. Deer", "A. Eid", "P. McGee", "D Schoch", "H. St
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "*Working Paper*"
-publication_short = "*Working Paper*"
+publication = "*Working Paper* (R&R at Journal of Risk and Uncertainty)"
+publication_short = "*Working Paper* (R&R at J. of Risk and Uncertainty)"
 
 # Abstract and optional shortened version.
 abstract = "Gender  effects  in  risk  taking  have  attracted  much  attention  by  economists,  and remain  debated.  Loss  aversion — the  stylized  finding  that  a  given  loss  carries  substantially  greater  weight  for  decisions  than  a  monetarily  equivalent  gain — is  a  fundamental  driver  of  risk  aversion.  We  deploy  four  definitions  of  loss  aversion  commonly used  in  the  literature  to  investigate  gender  effects.  Even  though  the  definitions  only differ  in  subtle  ways,  we  find  women  to  be  more  loss  averse  than  men  according to  one  definition,  while  another  definition  results  in  no  gender  differences,  and  the remaining  two  definitions  point  to  women  being less loss  averse  than  men.  Conceptually,  these  contradictory  effects  can  be  organized  by  systematic  measurement error  resulting  from  model  mis-specifications  relative  to  the  true  underlying  decision process."

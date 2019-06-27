@@ -40,20 +40,38 @@
     </item>
     
     <item>
+      <title>Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals</title>
+      <link>/publication/trendy-topics/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/trendy-topics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demandr: Nested Logit Demand Estimation with Aggregate Market Shares (R package)</title>
+      <link>/publication/demandr/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/demandr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mergersim: Merger Simulation Analysis with R (R package)</title>
+      <link>/publication/mergersim/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mergersim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Swipe Right for an STI? Tinder and the Increase STIs in the United States</title>
       <link>/publication/tinder-sti/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/tinder-sti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trendy Topics: The Evolution of Research Topics and Methods in Leading Economics Journals</title>
-      <link>/publication/trendy-topics/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/trendy-topics/</guid>
       <description></description>
     </item>
     
@@ -81,24 +99,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/publication/bubbles-income/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>demandr: Nested Logit Demand Estimation with Aggregate Market Shares (R package)</title>
-      <link>/publication/demandr/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/demandr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mergersim: Merger Simulation Analysis with R (R package)</title>
-      <link>/publication/mergersim/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/mergersim/</guid>
       <description></description>
     </item>
     

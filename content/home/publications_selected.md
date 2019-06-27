@@ -6,7 +6,7 @@ widget = "publications_selected"
 active = true
 date = 2016-04-20
 
-title = "Selected Research"
+title = "Current Research"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -17,7 +17,7 @@ weight = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
+list_format = 3
 
 # Filter by publication type.
 # -1: Any

@@ -21,8 +21,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "This study investigates the content of the published scientific literature in 30 leading economics journals over 2000 to 2017. I develop a structural topic model to reveal the temporal dynamics of published papers across journals.
-Preliminary results show that topics initially penetrate “top 5” journals before being picked up by field journals, confirming their role as as the leading journals in the profession. The analysis also reveals the specificities of each journal and identifies groups of journals with similar content – the results of which are not always consistent with prevailing wisdom. For example, the results show that treatment effect estimates dominate empirical papers in the *Quarterly Journal of Economics*, and that articles published in the *Review of Economics & Statistics* and the *Review of Economic Studies* are relatively fast at publshing new trends."
+abstract = "This study investigates the content of the published scientific literature in 30 leading economics journals over 2000 to 2017. I develop a structural topic model to reveal the temporal dynamics of published papers across journals. Preliminary results show that topics initially penetrate “top 5” journals before being picked up by field journals, confirming their role as as the leading journals in the profession. The analysis also reveals the specificities of each journal and identifies groups of journals with similar content – the results of which are not always consistent with prevailing wisdom. For example, the results show that treatment effect estimates dominate empirical papers in the *Quarterly Journal of Economics*, and that articles published in the *Review of Economics & Statistics* and the *Review of Economic Studies* are relatively fast at publshing new trends."
 
 # Featured image thumbnail (optional)
 image_preview = ""

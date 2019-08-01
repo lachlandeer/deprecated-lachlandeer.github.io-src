@@ -48,8 +48,7 @@ weight = 5
 
 # About Me
 
-I am currently completing my PhD in Economics at the University of Zurich.
-In Summer 2019, I will join the Marketing Group at Chicago Booth School of Business as a Post-Doctoral Fellow.
+I am a Postdoctoral Fellow in the Marketing Group at University of Chicago Booth School of Business. I recently completed my PhD in Economics at the University of Zurich.
 
 My current research leverages text as data, utilizing tools from Machine Learning and Natural Language Processing, integrating their outputs into quantitative models to understand:
 

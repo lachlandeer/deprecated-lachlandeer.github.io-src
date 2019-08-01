@@ -51,18 +51,18 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Lachlan Deer"
-  role = "PhD Candidate"
+  role = "Postdoctoral Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Zurich", url = "http://www.econ.uzh.ch/en.html" } ]
+  organizations = [ { name = "Chicago Booth School of Business", url = "https://www.chicagobooth.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "lachlan2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "lachlan.deer@gmail.com"
-  address = "Schoenberggasse 1 (Room J-25), Department of Economics, University of Zurich, CH-8001, Switzerland"
+  address = "5807 S Woodlawn Ave, Chicago, IL 60637"
   office_hours = "Email for appointment"
-  phone = "+41 44 634 35 88"
+  phone = "+41 787698789"
   skype = "lachlan.deer"
   telegram = ""
 
